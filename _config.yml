@@ -21,11 +21,13 @@
 title: Kevin Jivani
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Kevin's Blog. Documenting my life one step at a time.
+  When you are lost, look for North.
+  If you are way South, just feel North.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: _spaceatom
 github_username:  kevin3010
+linkedin_username: kevin-jivani
 
 # Build settings
 theme: minima
