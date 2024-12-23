@@ -65,7 +65,7 @@ class Resume(BaseModel):
 **Raw Resume Data**
 ```txt
 KEVIN JIVANI
-(514)-569-6580 ⋄ kevin30101999@gmail.com ⋄ linkedin/kevin-jivani
+kevin30101999@gmail.com ⋄ linkedin/kevin-jivani
 PROJECTS
 Job Recommendation System
 
