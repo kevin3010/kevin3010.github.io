@@ -10,17 +10,16 @@ These lists consist of things I want to accomplish in this lifetime. The first i
 2. ✗ Learn a Language (Maybe French)
 3. ✔ Visit CN Tower, Toronto, Canada <br>
 4. ✔ See Aurora (October 10, 2024 - Ottawa, Canada) <br>
-5. ✗ Visit Banff National Park, Alberta, Canada <br>
+5.  ✔ See a Solar Eclipse (Total Eclipse April 8, 2024 - Montreal, Canada) <br>
 6. ✗ Visit Taj Mahal, Agra, India <br>
 7. ✗ Read a fiction book in one sitting <br>
-8.  ✔ See a Solar Eclipse (Total Eclipse April 8, 2024 - Montreal, Canada) <br>
-9. ~ Complete Harry Porter Collection (4 Completed) <br>
+9. ~ Complete Harry Porter Books Collection (4 Completed) <br>
 10. ✗ Dinner at Michelin Star Restaurant <br>
 11. ✗ Run a Half Marathon <br>
 12. ✗ Scuba Dive <br>
 13. ✗ Sky Dive (Dubai preferably)<br>
 14. ✗ Bungee Jump <br>
-15. ~ Ice Skate (Including Reverse) <br>
+15. ✔ Ice Skate (Including Reverse) <br>
 16. ✗ Learn Skiing <br>
 17. ✗ Fly an Airplane <br>
 18. ✗ Start a Company (Without revenue doesn't count) <br>
