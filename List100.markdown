@@ -6,7 +6,7 @@ permalink: /list100/
 
 These lists consist of things I want to accomplish in this lifetime. The first item in the list is kept intentionally to remind myself about this list every time I create a post. 
 
-1. ~ Start a Blog (Current : 1/100th posts) <br>
+1. ~ Start a Blog (Current : 2/100th posts) <br>
 2. ✗ Learn a Language (Maybe French) <br>
 3. ✔ Visit CN Tower, Toronto, Canada <br>
 4. ✔ See Aurora (October 10, 2024 - Ottawa, Canada) <br>
