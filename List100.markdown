@@ -15,15 +15,15 @@ These lists consist of things I want to accomplish in this lifetime. The first i
 7. ✗ Visit Taj Mahal, Agra, India <br>
 8. ✗ Read a fiction book in one sitting <br>
 9.  ~ Complete Harry Porter Books Collection (4 Completed) <br>
-10. ✗ Dinner at Michelin Star Restaurant <br>
+10. ✔ Dinner at Michelin Star Restaurant ([PAI Thai](https://paitoronto.com/)) [image](/assets/images/KhawSoi.JPG) <br>
 11. ✗ Run a Half Marathon <br>
 12. ✗ Scuba Dive <br>
 13. ✗ Bungee Jump <br>
 14. ✔ Ice Skate (Including Reverse) <br>
-15. ✔ Learn Skiing (8th March, Mount St. Louis Moonstone) <br>
+15. ✔ Learn Skiing (8th March, Mount St. Louis Moonstone) [image](/assets/images/skiing.PNG)  <br>
 16. ✔ Tell a stranger how beautiful she is (Wrote a note)<br>
 17. ✗ Fly an Airplane <br>
-18. ✗ Create a Mico Movie <br>
+18. ✗ Create a Micro Movie <br>
 19. ✗ Start a Company (Without revenue doesn't count) <br>
 21. ✗ Travel a country alone <br>
 22. ✗ Learn Handstand pushups <br>
