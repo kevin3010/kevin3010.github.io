@@ -21,12 +21,11 @@ These lists consist of things I want to accomplish in this lifetime. The first i
 13. ✗ Bungee Jump <br>
 14. ✔ Ice Skate (Including Reverse) <br>
 15. ✔ Learn Skiing (8th March, Mount St. Louis Moonstone) [image](/assets/images/skiing.PNG)  <br>
-16. ✔ Tell a stranger how beautiful she is (Wrote a note)<br>
-17. ✗ Fly an Airplane <br>
-18. ✗ Create a Micro Movie <br>
-19. ✗ Start a Company (Without revenue doesn't count) <br>
-21. ✗ Travel a country alone <br>
-22. ✗ Learn Handstand pushups <br>
-23. ✗ Visible Abs <br>
-24. ✗ Film using a Drone <br>
-25. ✗ View a planet through a telescope (Tried Venus but failed) <br>
+16. ✗ Fly an Airplane <br>
+17. ✗ Create a Micro Movie <br>
+18. ✗ Start a Company (Without revenue doesn't count) <br>
+19. ✗ Travel a country alone <br>
+20. ✗ Learn Handstand pushups <br>
+21. ✗ Visible Abs <br>
+22. ✗ Film using a Drone <br>
+23. ✗ View a planet through a telescope (Tried Venus but failed) <br>
