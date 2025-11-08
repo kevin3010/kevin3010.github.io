@@ -19,9 +19,8 @@ And then, I used [ScreenZen](https://www.screenzen.co/). The idea is not to cut 
 
 • **Streaks**: It breaks your heart to not send a snap even if you fought since you did it for the last 365 days. Well, it will also break your heart to have followed opening Instagram X time a day, and suddenly you have that itch to open it one extra time. It works as a [habbit tracker](https://jamesclear.com/habit-tracker). 
 
-Well, it was hard to find myself with nothing to do. And you need to find something to feel that void. For me that was reading and writing 
 
-It can be difficult. For instance, you might find a match on a dating app but be unable to talk on Instagram. I know some would consider this a cheat code, but I would temporarily install Instagram on my iPad whenever I got a match. The only constraint was that I couldn't talk while at work (which technically should not be a problem). I kept this up for a while and then altogether gave up(on dating apps), but **the streak of not opening Instagram** lasted.
+It initially it can be difficult. For instance, you might find a match on a dating app but be unable to talk on Instagram. I know some would consider this a cheat code, but I would temporarily install Instagram on my iPad whenever I got a match. The only constraint was that I couldn't talk while at work (which technically should not be a problem). I kept this up for a while and then altogether gave up(on dating apps), but **the streak of not opening Instagram** lasted.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
