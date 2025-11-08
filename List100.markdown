@@ -9,7 +9,7 @@ These lists consist of things I want to accomplish in this lifetime. The first i
 1. ~ Start a Blog (Current : 2/100th posts) <br>
 2. ✗ Learn a Language (Maybe French) <br>
 3. ✔ Visit CN Tower, Toronto, Canada <br>
-4. ✔ See Aurora (October 10, 2024 - Ottawa, Canada) [Aurora](/assets/images/Aurora.HEIC) <br> 
+4. ✔ See Aurora (October 10, 2024 - Ottawa, Canada) [Aurora](/assets/images/Aurora.png) <br> 
 6. ✔ See a Solar Eclipse (Total Eclipse April 8, 2024 - Montreal, Canada) [Total Eclipse](/assets/images/SolarEclipse.JPG) <br>
 7. ✗ Sky Dive (Dubai preferably)<br>
 8. ✗ Visit Taj Mahal, Agra, India <br>
